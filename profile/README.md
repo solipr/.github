@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img src="../logo.svg" alt="Solipr Logo" height="256">
+ <img src="../logo.png" alt="Solipr Logo" width="384">
 </p>
 
 
