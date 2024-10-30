@@ -20,8 +20,5 @@
 ### Repositories
 
 - [`solipr`](https://github.com/solipr/solipr): The Solipr VCS repository.
-- [`solipr/docs`](https://github.com/solipr/docs): The Solipr documentation. (Not yet implemented)
-- [`solipr/hub`](https://github.com/solipr/hub): A decentralized platform for the Solipr VCS. (Not yet implemented)
-- [`solipr/extension`](https://github.com/solipr/extension): A set of tools for the Solipr VCS. (Not yet implemented)
 
 <br/>
